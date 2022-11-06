@@ -1,2 +1,2 @@
 # myownvoiceassistant
-just an easy voice assistant
+just an simple voice assistant
